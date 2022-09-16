@@ -1,0 +1,17 @@
+{
+  "name": "toml-check",
+  "version": "1.0.0",
+  "description": "Checks if you followed the toml format or if you made typos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0",
+    "toml": "^3.0.0"
+  }
+}

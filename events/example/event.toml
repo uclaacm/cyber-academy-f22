@@ -1,0 +1,7 @@
+id = 1
+title = "Example Event"
+short = "Example" 
+date = "Wednesday 1/1 6:00PM-8:00PM PT"
+description = """Description in Markdown here."""
+link = ""
+slides = ""

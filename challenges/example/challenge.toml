@@ -1,0 +1,9 @@
+slug = "example"
+title = "Example"
+author = "Jerry"
+value = 10
+description = """What is the name of the president of ACM Cyber from 2019-2020?"""
+tags = [ "intro" ]
+files = []
+flag = "flag{sanjana_aka_death}"
+enabled = true 

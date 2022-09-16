@@ -1,0 +1,10 @@
+name: 'TOML Check'
+description: 'Checks if you followed the toml format or if you made typos.'
+inputs:
+  path-to-schema:
+    description: 'TOML Schema'
+    required: true
+    default: 'schema.toml'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'

@@ -1,0 +1,17 @@
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: A job to check TOML files
+    steps:
+      # To use this repository's private action,
+      # you must check out the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: TOML Checker
+        uses: ./.github/actions/toml-check
+        id: check
+        with:
+          path-to-schema-challenges: ./templates/challenges-schema.toml
+          path-to-schema-events: ./templates/events-schema.toml
