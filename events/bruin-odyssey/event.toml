@@ -1,0 +1,8 @@
+id = 7
+title = "Bruin Odyssey"
+short = "Bruin Odyssey" 
+date = "Weeks 3-9"
+description = """Bruin Odyssey is a quarter-long puzzle challenge hosted by ACM Hack and ACM Cyber. Every week starting from week 3 to week 9, a set of small puzzles will be released on the website each week for participants to solve. You can use these puzzles as a fun exercise to improve your problem solving skills, learn more about the field of computer science, or to challenge your friends. You don't need a computer science background to participate - just a little programming knowledge, some problem solving skills and creative thinking will get you pretty far. There will be prizes for the winners!
+"""
+link = ""
+slides = ""

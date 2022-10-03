@@ -1,0 +1,8 @@
+id = 6
+title = "Cyber Academy: Packet Capture"
+short = "Packet Capture" 
+date = "Wednesday 11/9 8:00PM-10:00PM PT"
+description = """Do you know how hackers steal your data over a network? Want to find out? Then come to our workshop where we will be taking a look at all of the tools and techniques that hackers use to steal your data! Learn how to protect yourself against hackers trying to listen in on your private conversations as well as how to find out if anyone you know is talking smack (probably illegal though so don’t actually do it).
+"""
+link = "https://fb.me/e/3MQKbtnuR"
+slides = ""
