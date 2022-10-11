@@ -2,11 +2,10 @@ slug = "wheres-that-pokemon-1"
 title = "Where's that Pokemon? (1/3)"
 author = "Benson"
 value = 15
-description = """I recently have downloaded Pokemon Go and want to explore all the best gyms and PokeStops here at UCLA! However, my friend has been hiding where all of the good spots to catch Pokemon are. Can you help me find them?
-
-My friend just posted this [photo](pokemon-1.jpg) of a great spot to find Squirtles. Can you find which iconic UCLA monument is here? (Hint: The flag is the name of the monument all lower case and with underscores used as spaces.The answer must be wraped in flag{YOUR_ANSWER}.)
+description = """I recently have downloaded Pokemon Go and want to explore all the best gyms and PokeStops here at UCLA! However, my friend has been hiding where all of the good spots to catch Pokemon are. Can you help me find them? 
+My friend just posted this [photo](pokemon-1.jpg) of a great spot to find Squirtles. Can you find which iconic UCLA monument is here? (Hint: The flag is the name of the monument all lower case and with underscores used as spaces. The answer must be wraped in flag{YOUR_ANSWER}.)
 """
 tags = [ "osint" ]
-files = []
+files = ["pokemon-1.jpg"]
 flag = "flag{inverted_fountain}"
 enabled = true
