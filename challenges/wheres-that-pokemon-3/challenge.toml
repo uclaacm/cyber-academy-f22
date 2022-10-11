@@ -6,6 +6,6 @@ description = description = """I recently have downloaded Pokemon Go and want to
 My friend just posted this [photo](./pokemon-3.jpg) of a great spot to share a snack with Pokemon apparently. Can you find which UCLA eatery is near here? (Hint: The flag is the name of the eatery all lower case and with underscores used as spaces. The answer must be wraped in flag{YOUR_ANSWER}.)
 """
 tags = [ "osint" ]
-files = ["pokemon-3.jpg"]
+files = [ "pokemon-3.jpg" ]
 flag = "flag{de_neve_dinning_hall}"
 enabled = true
