@@ -2,7 +2,7 @@ slug = "wheres-that-pokemon-2"
 title = "Where's that Pokemon? (2/3)"
 author = "Benson"
 value = 15
-description = description = """I recently have downloaded Pokemon Go and want to explore all the best gyms and PokeStops here at UCLA! However, my friend has been hiding where all of the good spots to catch Pokemon are. Can you help me find them?
+description = """I recently have downloaded Pokemon Go and want to explore all the best gyms and PokeStops here at UCLA! However, my friend has been hiding where all of the good spots to catch Pokemon are. Can you help me find them?
 My friend just posted this [photo](pokemon-2.jpg) of a great spot where he found all three starter Pokemon: Squirtle, Charmander, and Bulbasaur! Can you find which iconic UCLA building they are facing? (Hint: The flag is the name of the building all lower case and with underscores used as spaces. The answer must be wraped in flag{YOUR_ANSWER}.)
 """
 tags = [ "osint" ]
