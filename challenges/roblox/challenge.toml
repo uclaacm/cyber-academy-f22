@@ -1,0 +1,9 @@
+slug = "roblox"
+title = "Roblox"
+author = "Laura"
+value = 15
+description = """Somebody uses [this](better.txt) IP Address. What virtual location (associated with this entity) is an entertainment utopia? (Format: flag{firstword_secondword}, all lowercase.)"""
+tags = [ "osint" ]
+files = [ "better.txt" ]
+flag = "flag{electric_island}"
+enabled = true

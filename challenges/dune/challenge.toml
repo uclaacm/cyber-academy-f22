@@ -1,0 +1,9 @@
+slug = "dune"
+title = "Dune"
+author = "Laura"
+value = 15
+description = """Which famous person posted [this](dune.jfif) picture to Twitter in September? (Submission: flag{@twitterhandle}, all lowercase)"""
+tags = [ "osint" ]
+files = [ "dune.jfif" ]
+flag = "flag{@elonmusk}"
+enabled = true
