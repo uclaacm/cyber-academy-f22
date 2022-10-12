@@ -1,0 +1,9 @@
+slug = "who-uses-hotmail"
+title = "Who Uses Hotmail?"
+author = "Juliet"
+value = 20
+description = """I met Belle in one of my classes and she gave me her [Insta](insta.png). She's been having some trouble logging into her hotmail, but told me that her password is a combo of answers to common security questions (why? idk just roll with it). It seems like the questions she chose were: favorite sport, pet's name, and city of birth. Can you log in to her hotmail? (Hints: Email password is all lower-case and answers are separated by an underscore (e.g., sport_pet_somecity). The flag is in her inbox.)"""
+tags = [ "osint" ]
+files = ["insta.png"]
+flag = "flag{enjoy_my_badly_photoshopped_profile}"
+enabled = true

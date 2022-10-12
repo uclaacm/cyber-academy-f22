@@ -1,0 +1,9 @@
+slug = "now-were-cooking"
+title = "Now We're Cooking"
+author = "Juliet"
+value = 10
+description = """Your favorite show ever is Hell's Kitchen. You live, die, and breathe it. You decided to make a Discord account to meet fellow fans. And to learn about cybersecurity, becuse that's important too. I wonder what's on your profile?"""
+tags = [ "osint" ]
+files = []
+flag = "flag{dis_cordon_ramsay}"
+enabled = true
