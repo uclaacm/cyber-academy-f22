@@ -1,0 +1,9 @@
+slug = "osint-feedback"
+title = "OSINT & Social Engineering Feedback"
+author = "Benson"
+value = 10
+description = """Please fill out this feedback [form](https://forms.gle/eZ9VfD5UfUSWLQXV9) to let us know your thoughts about the workshop! Flag is at the end after you are done. :)"""
+tags = [ "osint" ]
+files = []
+flag = "flag{dont_get_cyberstalked}"
+enabled = true
