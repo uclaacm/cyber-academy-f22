@@ -1,0 +1,9 @@
+slug = "bruteforce-battle"
+title = "Bruteforce Battle"
+author = "Rory"
+value = 20
+description = """This [website](link) accepts passwords in the form link/password. The correct password is a combination of two words from this [wordlist](wordlist.txt) separated by a (-) character. Can you figure out what the password is?"""
+tags = [ "scripting", "web" ]
+files = [ "wordlist.txt" ]
+flag = "flag{thats_alot_of_permutations}"
+enabled = true
