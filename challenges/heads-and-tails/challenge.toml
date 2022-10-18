@@ -1,0 +1,12 @@
+slug = "heads-and-tails"
+title = "Heads and Tails"
+author = "Salma"
+value = 20
+description = """I gave my [flag](flag.zip) to a magician but he's gotten it all filled with garbage and now i cant make heads or tails of it! 
+he keeps telling me that the magic number is three but I have no idea what he's on about. Can you help me recover my flag?
+He also said something about thinking of these files like a matryoshka doll where larger number = smaller doll.
+(Submission: flag{lowercasenospaces})"""
+tags = [ "scripting" ]
+files = [ "flag.zip" ]
+flag = "flag{allthemcoinflips}"
+enabled = true

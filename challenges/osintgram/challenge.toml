@@ -1,0 +1,11 @@
+slug = "osintgram"
+title = "Osintgram"
+author = "Salma"
+value = 20
+description = """I've hidden a flag somewhere on my [instagram](https://www.instagram.com/debeste.spam/) profile! It could be anywhere!
+If only there was some cool Python module that would help you traverse through all the places it could be... I know I'm too lazy to look through that stuff on my own.
+(Note: wrap your flag in curly braces regardless of the format you find it in. ex. flag_test.flag_ = flag{test.flag}"""
+tags = [ "scripting" ]
+files = []
+flag = "flag{4.tru3.0s1ntgr4m.m4st3r}"
+enabled = true
