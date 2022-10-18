@@ -1,0 +1,9 @@
+slug = "hex-hax"
+title = "Hex Hax"
+author = "Rory"
+value = 20
+description = """I accidentally downloaded ransomware from the dark web and now all of my data is [encrypted](ciphertext.txt). Luckily I was able to recover the [copy](encoder.py) of ransomware that encrypted my data. Can you help recover the lost data?"""
+tags = [ "scripting" ]
+files = [ "ciphertext.txt", "encoder.py" ]
+flag = "flag{scripting_isnt_always_about_writing_scripts}"
+enabled = true
