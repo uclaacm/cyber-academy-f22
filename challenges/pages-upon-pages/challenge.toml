@@ -4,6 +4,6 @@ author = "Salma"
 value = 15
 description = """There's a long [path](https://ssalandary.github.io/ScriptingChallenges/) ahead of you, maybe you can traverse it and find some light at the end of the tunnel?"""
 tags = [ "scripting" ]
-files = [ "" ]
+files = []
 flag = "flag{d0wn_th3_r4bb1t_h0l3}"
 enabled = true
