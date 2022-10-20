@@ -1,0 +1,9 @@
+slug = "piecaken"
+title = "Piecaken"
+author = "Caolinn"
+value = 15
+description = """Traditionally, a PieCaken is a three layered cake with two pies baked inside. My recipe for a (PieCaken)[piecaken.zip] has a couple more layers . . . find the yummy treat!"""
+tags = [ "scripting" ]
+files = [ "piecaken.zip" ]
+flag = "flag{oatmeal_raisin_cookies_without_raisins}"
+enabled = true
