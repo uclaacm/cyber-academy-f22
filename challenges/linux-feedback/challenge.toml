@@ -7,4 +7,3 @@ tags = [ "scripting" ]
 files = []
 flag = "flag{command_line_genius}"
 enabled = true
-
