@@ -1,0 +1,9 @@
+slug = "so-random-and-so-quirky"
+title = "So random and so quirky!"
+author = "James"
+value = 15
+description = """oh my god what is this [file](file.txt)??? why are there so many random letters? who wrote this"""
+tags = [ "file analysis" ]
+files = ["file.txt"]
+flag = "flag{egrep_is_better_than_grep} "
+enabled = true
