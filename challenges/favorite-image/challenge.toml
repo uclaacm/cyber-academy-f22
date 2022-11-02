@@ -1,0 +1,10 @@
+
+slug = "favorite-image"
+title = "Favorite Image"
+author = "Luke"
+value = 20
+description = """I seem to have lost my [favorite image](my_image.png), can you help me find it?"""
+tags = [ "file analysis" ]
+files = [ "my_image.png" ]
+flag = "flag{always_walk_your_bin}"
+enabled = true
