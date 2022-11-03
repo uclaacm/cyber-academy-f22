@@ -1,0 +1,9 @@
+slug = "company-memo"
+title = "Company Memo"
+author = "Nik"
+value = 30
+description = """Employee relations at the Tar and Feather Company are degrading rapidly. Check out [this internal memo](memo.docx) Bob Jospeh sent Joe Bobby — what's going on over there??"""
+tags = [ "file forensics" ]
+files = [ "memo.docx" ]
+flag = "flag{a_tar_mess_indeed!}"
+enabled = true

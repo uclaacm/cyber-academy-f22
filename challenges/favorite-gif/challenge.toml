@@ -1,0 +1,9 @@
+slug = "favorite-gif"
+title = "Favorite Gif"
+author = "Nik"
+value = 15
+description = """An absolute *classic* GIF as far as I'm concerned!! You definitely should [download it](peanut-butter-jelly-time.gif). And keep it on your computer. Forever."""
+tags = [ "file forensics" ]
+files = [ "peanut-butter-jelly-time.gif" ]
+flag = "flag{peanut_butter_jelly_man_doesnt_fool_me}"
+enabled = true
