@@ -1,0 +1,10 @@
+
+slug = "nasty-nest"
+title = "Nasty Nest"
+author = "Luke"
+value = 15
+description = """I seem to have lost my belongings in [this](nest.zip) nasty nest of my own creation. Can you get them back for me?"""
+tags = [ "file forensics" ]
+files = [ "nest.zip" ]
+flag = "flag{folders_are_files_are_folders}"
+enabled = true
