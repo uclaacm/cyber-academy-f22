@@ -1,0 +1,9 @@
+slug = "file-forensics-feedback"
+title = "File Forensics Feedback Form"
+author = "Nik"
+value = 10
+description = """Please take a moment to fill out our file forensics workshop [feedback form](http://links.uclaacm.com/file-forensics-feedback-f22)! Free points at the end :)"""
+tags = [ "file forensics "]
+files = []
+flag = "flag{finished_that_funky_fresh_file_forensics_feedback_form}"
+enabled = true
