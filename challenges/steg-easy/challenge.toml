@@ -1,9 +1,0 @@
-slug = "steg-easy"
-title = "Steg Demo Easy"
-author = "loltyler1dotcom-discount-code-alpha"
-value = "5"
-description = "Steg can be very simple... anyways [here](1-string.jpg) is a picture."
-tags = [ "steg" ]
-files = [ "1-string.jpg" ]
-flag = "flag{stR1ngz_n0t_s3cURE}"
-enabled = true
