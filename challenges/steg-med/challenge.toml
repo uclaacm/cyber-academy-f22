@@ -1,8 +1,8 @@
 slug = "steg-med"
 title = "Steg Demo: dum shark"
 author = "loltyler1dotcom-discount-code-alpha"
-value = "5"
-description = "Sharks are not very smart. I'm too lazy to write more. Click [here](2-gura.png)."
+value = 5
+description = """Sharks are not very smart. I'm too lazy to write more. Click [here](2-gura.png)."""
 tags = [ "steg" ]
 files = [ "2-gura.png" ]
 flag = "flag{lsb_very_hidden}"
