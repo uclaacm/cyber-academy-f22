@@ -1,0 +1,9 @@
+slug = "steg-demo-1"
+title = "Steg Demo 1"
+author = "Jerry"
+value = 5
+description = """The first demo of the steganography workshop. Demo file [here](kirby.jpg)."""
+tags = [ "steg" ]
+files = [ "kirby.jpg" ]
+flag = "flag{spam_down_b}"
+enabled = true

@@ -1,0 +1,9 @@
+slug = "breakfast"
+title = "Breakfast"
+author = "Jerry"
+value = 20
+description = """In the Clash Royale universe, dawn has come and it is the perfect time to play a game and also munch on some breakfast. Some [cards](cards.png) were played on the arena, and absolutely no messages were hidden in the cards. Definitely not. Hidden messages are very common in other places, but very rare here."""
+tags = [ "steg" ]
+files = [ "cards.png" ]
+flag = "flag{pancakes}"
+enabled = true
