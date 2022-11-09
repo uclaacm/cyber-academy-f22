@@ -1,0 +1,9 @@
+slug = "reflection"
+title = "Reflection"
+author = "Jerry"
+value = 25
+description = """Upon reflection, it seems like the password or KEY to a [man or woman](ping.jpg)'s heart is through their pet."""
+tags = [ "steg" ]
+files = [ "ping.jpg" ]
+flag = "flag{bring_honor_to_us_all}"
+enabled = true
