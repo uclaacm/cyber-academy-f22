@@ -1,1 +1,9 @@
-
+slug = "audio-steg-demo"
+title = "Audio Steg Demo"
+author = "Stephen"
+value = 5
+description = """How can we hide messages in an audio file? See if you can find the message hidden [here](demo.wav)."""
+tags = [ "steganography" ]
+files = [ "demo.wav" ]
+flag = "flag{wokka_wokka}"
+enabled = true
