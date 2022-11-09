@@ -1,5 +1,5 @@
-slug = "steg-demo-1"
-title = "Steg Demo 1"
+slug = "steg-demo-part-1"
+title = "Steg Demo Part 1"
 author = "Jerry"
 value = 5
 description = """The first demo of the steganography workshop. Demo file [here](kirby.jpg)."""
