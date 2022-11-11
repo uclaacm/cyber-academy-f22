@@ -1,0 +1,11 @@
+slug = "crickets"
+title = "Crickets"
+author = "Stephen"
+value = 15
+description = """I use cricket sounds to help me fall asleep, and a friend sent me [this audio file](crickets.wav). I want to use it, but it's super annoying to listen to, and I'm not even convinced that it's really a recording of crickets.
+
+The flag is completely lowercase letters. Wrap it with flag{}, and separate words with '_'"""
+tags = [ "steg" ]
+files = [ "crickets.wav" ]
+flag = "flag{bop_it_twist_it_pull_it}"
+enabled = true
