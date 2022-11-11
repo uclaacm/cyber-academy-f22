@@ -16,7 +16,7 @@ def setPixel(char, pixel):
 def encode(secret, file, out):
   image = Image.open(file)
   pixels = image.load()
-  i = 0
+  i = 0 
   j = 0
   index = 0
   while i < image.size[0] and index < len(secret):
@@ -25,7 +25,7 @@ def encode(secret, file, out):
       index+=1
       j+=1
     i+=1
-  image.save(out)
+  image.save(out, 'PNG')
 
 if __name__ == "__main__":
   secret = sys.argv[1]
