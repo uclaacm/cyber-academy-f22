@@ -1,7 +1,7 @@
 slug = "steg-feedback"
 title = "Feedback Form"
 author = "loltyler1dotcom-discount-code-alpha"
-value = 5
+value = 10
 description = """Fill out the feedback form [here](https://forms.gle/5MUa1AyPBeRRJWCv5) is a picture."""
 tags = [ "feedback" ]
 files = []
